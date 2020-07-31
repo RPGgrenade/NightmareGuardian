@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b1db9a80637215644911ea3ac8f3d037
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PrimarySound: {instanceID: 0}
+  - SecondarySound: {instanceID: 0}
+  - Sonar: {fileID: 1181831677990328, guid: af6fa15407e579c4987b78d30a22c9aa, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
