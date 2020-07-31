@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ceramic
+  - Wood
+  - Plastic
+  - Metal
+  - Glass
+  - Fabric
+  - handle
+  - Light
+  - Needle
+  - Monster
+  - Fly
+  - Ant
+  - Wall
+  - Floor
+  - Blade
+  - Male
+  - Female
+  - Eyeball
+  - Time
+  - Cape
+  - Attack
+  - Plush
+  - Door
+  - Sack
+  - Food
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Cloth
+  - Monster
+  - Barrier
+  - Toys
+  - Player
+  - Bug
+  - Ledge
+  - Light
+  - Sense
+  - Bed
+  - Floor
+  - Camera
+  - Music
+  - Sound
+  - Cotton
+  - Relaxation
+  - Door
+  - Plush
+  - FurBase
+  - FurHair
+  - Miscellaneous
+  - 
+  - 
+  - HLOD
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
